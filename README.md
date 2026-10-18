@@ -26,9 +26,9 @@ TFM sells fresh produce, bakery items, household goods, butchery, deli and dairy
 3. They are routed to the fresh produce and/or butchery station, then to the payment counter
 4. They leave through the exit, where their cycle times are recorded
 
-![Entrance and shopping list flow](screenshots/model_entrance_flow.png)
+<img width="1285" height="340" alt="model_entrance_flow" src="https://github.com/user-attachments/assets/fb5f3010-7986-4b74-913c-506ca47995db" />
 
-![Station flow](screenshots/model_station_flow.png)
+<img width="1263" height="521" alt="model_station_flow" src="https://github.com/user-attachments/assets/25a392e6-9611-4609-af31-cfbdea283130" />
 
 *The flowcharts above are from the basic model. The what-if model uses the same logic and only the staffing differs.*
 
