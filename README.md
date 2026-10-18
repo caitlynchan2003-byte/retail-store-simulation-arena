@@ -43,7 +43,7 @@ I verified the model by checking that the schedules repeat correctly over the 3-
 
 ## Results
 
-Averages across replications [add the number of replications, found in Run > Setup in Arena].
+Averages across 5 replications.
 
 | Measure | Basic model | What-if model | Change |
 |---|---|---|---|
