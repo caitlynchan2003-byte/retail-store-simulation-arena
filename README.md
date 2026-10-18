@@ -80,7 +80,7 @@ My group's recommendations for TFM:
 
 ## My contribution
 
-[Describe what you personally did in this group project, for example building part of the model, running the experiments, analysing the output or writing sections of the report. Be specific.]
+In this group project, I helped build the payment counter and customer re-entry logic, ran the fixed-staffing what-if experiment, and compared its results with the basic model. I also wrote the comparison and recommendation sections of the report. The rest of the model was built jointly with my teammates.
 
 ## Tools
 
